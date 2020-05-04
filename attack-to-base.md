@@ -1,4 +1,5 @@
-### [Army of the Body](./) | [Attack to Base](./attack-to-base)
+### [Army of the Body](./) | [Attack to Base](./attack-to-base) | [Everyday Tactics](./everyday-tactics)
+
 
 ![Auto Immune Cells](https://upload.wikimedia.org/wikipedia/commons/f/f5/Eosinophilic_esophagitis_-_very_high_mag.jpg)
 

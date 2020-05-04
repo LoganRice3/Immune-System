@@ -1,4 +1,4 @@
-### [Army of the Body](/) | [Attack to Base](/attack-to-base)
+### [Army of the Body](./) | [Attack to Base](./attack-to-base)
 
 ![Army](https://images.unsplash.com/photo-1522735856-4f1dc00fb0f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1578&q=80)
 

@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+![Army](https://images.unsplash.com/photo-1522735856-4f1dc00fb0f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1578&q=80)
 
-You can use the [editor on GitHub](https://github.com/LoganRice3/ImmuneSystem/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Army of The Body
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The immune system is like no other. It is like the army to the united states. Without the immune system, our bodies would have no capability of living. Although it goes unnoticed it is always there working and protecting your body from any sort of bacteria, virus, fungi, you name it your immune system is fighting it all day.
 
-### Markdown
+It’s all so complex that every day scientists figure out more and more about it. Your immune system’s first layer of defense is the skin. The skin stops almost all microbes which would easily kill us if it weren’t for the skin.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Bone marrow is also really important due to the fact it produces a lot of our cells which help defend against pathogens and virus cells.
 
-```markdown
-Syntax highlighted code block
+Bloodstream is also very important. The main way our defensive cells transport throughout our body is by the bloodstream as blood is being disbursed throughout our whole body the cells are waiting and patrolling for something to happen.
 
-# Header 1
-## Header 2
-### Header 3
+The lymphatic system is a conductor of communication between the tissues and the bloodstream. The lymph nodes are a communication hub for immune cells. Immune cells will bring in samples of distant microbes to help defend against them.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LoganRice3/ImmuneSystem/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

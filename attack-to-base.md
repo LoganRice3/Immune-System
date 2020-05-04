@@ -1,6 +1,6 @@
 ### [Army of the Body](./) | [Attack to Base](./attack-to-base)
 
-![Auto Immune Cells](https://upload.wikimedia.org/wikipedia/commons/1/14/Autoimmune_hepatitis_-_very_high_mag.jpg)
+![Auto Immune Cells](https://upload.wikimedia.org/wikipedia/commons/f/f5/Eosinophilic_esophagitis_-_very_high_mag.jpg)
 
 ## Attack to Base
 

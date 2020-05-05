@@ -4,7 +4,7 @@
 
 ## Everyday Tactics | Practical Everyday Use
 
-whether you realize it or not your immune system is working all the time. walking down the street your system is working hard to keep you alive. its keeping all the stuff in the air out of your body and defending its self from stuff you breath, food you eat, water you drink. It goes to show how complex God made our bodies. the immune system has so many other systems and other main systems of the body that work together to defend your body and also keep it in homeostasis.  
+Whether you realize it or not your immune system is working all the time. Walking down the street your system is working hard to keep you alive. Its keeping all the stuff in the air out of your body and defending its self from stuff you breath, food you eat, water you drink. It goes to show how complex God made our bodies. The immune system has so many other systems and other main systems of the body that work together to defend your body and also keep it in homeostasis.  
 
 ![Working together](https://live.staticflickr.com/2289/2137737248_e9f3e429d1_b.jpg)
 

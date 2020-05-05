@@ -4,7 +4,7 @@
 
 ## Army of The Body
 
-The immune system is like no other. It is like the army to the united states. Without the immune system, our bodies would have no capability of living. Although it goes unnoticed it is always there working and protecting your body from any sort of bacteria, virus, fungi, you name it your immune system is fighting it all day.
+The immune system is like no other. It is like the army to the United States. Without the immune system, our bodies would have no capability of living. Although it goes unnoticed it is always there working and protecting your body from any sort of bacteria, virus, fungi, you name it your immune system is fighting it all day.
 
 It’s all so complex that every day scientists figure out more and more about it. Your immune system’s first layer of defense is the skin. The skin stops almost all microbes which would easily kill us if it weren’t for the skin.
 
